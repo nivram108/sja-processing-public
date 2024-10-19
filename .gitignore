@@ -1,0 +1,10 @@
+temp/
+temp0/
+tmp/
+*.json
+*pyc
+__pycache__/
+.idea/
+output/
+.idea/workspace.xml
+workspace.xml
